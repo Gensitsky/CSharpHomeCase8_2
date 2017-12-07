@@ -15,6 +15,9 @@ using System.Threading.Tasks;
 
 namespace CSharpHomeCase8_2
 {
+    /// <summary>
+    /// Assignment in work
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
